@@ -53,3 +53,5 @@ Data organisation is summarized below - see file tree.
 
 
 N.B. you will need to install the "imagecodecs" package.
+
+The `scripts/` directory contains all the scripts to analyse the data.
