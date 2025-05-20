@@ -4,7 +4,7 @@ The aim is to identify blobs in the images stored in the `data/raw/` directory.
 First run the "process_images" script which produced some intermediate files stored in `data/processed/` directory.
 Then run the "analyse_images" script to produce the final output files, stored in `data/results/` directory.
 
-Data organisation is summarized below.
+Data organisation is summarized below - see file tree.
 
 .
 ├── data
